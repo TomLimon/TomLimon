@@ -1,8 +1,11 @@
-- 👋 Hi, I’m TomLimon
-- 👀 I’m a french student at the IUT of Belfort
-- 🌱 I’m currently learning Programming and looking for an Apprenticeship
-- 📫 How to reach me : tomlimon68440@gmail.com
+<h1 align="center">Hi 👋, I'm Tom</h1>
+<h3 align="center">An 18 years old french student in computer science at the IUT of Belfort 🍷🥖</h3>
 
+- 🔭 I’m currently learning Programming and looking for an Apprenticeship
+
+
+<p align="left">
+</p>
 
 <!---
 TomLimon/TomLimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
